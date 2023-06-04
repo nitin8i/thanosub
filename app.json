@@ -58,10 +58,10 @@
     },
     "EXTERNAL_REPO": {
       "description": "To install external plugins. if you don't want, change value to 'False'",
-      "value": "True",
+      "value": "False",
       "required": false
     },
-    "BADCAT": {
+    "THANOSABUSE": {
       "description": "set 'True' to install 18+ plugins.",
       "value": "False",
       "required": false
